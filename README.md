@@ -18,8 +18,8 @@ Klasifikasi Sentimen:
 Setiap komentar diklasifikasikan sebagai Positif, Negatif, atau Netral berdasarkan skor selisih antara kata positif dan negatif yang muncul.
 Praproses Teks:
 Termasuk normalisasi, penghapusan noise (URL, mention, emoji), dan stemming menggunakan library Sastrawi.
+
 📁 Struktur Proyek
-12345678
 .
 ├── data/                   
 ├── scraping/               # Script untuk mengumpulkan komentar dari sumber publik
